@@ -1,4 +1,4 @@
-#Javascript assignment questions
+# Javascript assignment questions
 
 
 01. Create a variable.js file and declare variables and assign string, boolean, undefined and null data types, Display all the value with their data type.
@@ -100,7 +100,7 @@
     - Overweight: BMI is 25 to 29.9
     - Obese: BMI is 30 or more
 
-26. Write a program to print the table of any number given by the user. The format of the output should be smiliar to the below example-
+26. Write a program to print the table of any number given by the user. The format of the output should be similiar to the below example-
 	If the number given by the user is 2 then the output should look like this-
 	2 * 1 = 2
 	2 * 2 = 4
